@@ -10,3 +10,4 @@ I see people using this to embellish their profiles so i decide to make one:
 - 📫 How to reach me: taquangtu132@gmail.com
 - 😄 Pronouns: Dude :D
 - ⚡ Fun fact: Im good at playing football & Chinese chess.
+[![TaQuangTu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaQuangTu&show_icons=true&theme=dark)](https://github.com/TaQuangTu)
