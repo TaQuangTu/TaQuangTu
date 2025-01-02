@@ -5,7 +5,6 @@ I see people using this to embellish their profiles so i decide to make one :D
 
 - 🔭 Working on: 2D/3D Object detection/Recognition, Image Processing, Android Programming
 - 🌱 Frameworks & Languages & tools: Android, TensorRT, Pytorch, CMake, Python, Java, Kotlin, C++
-- 📫 Email: taquangtu132@gmail.com
 - ⚡ Fun fact: Im good at playing football & Chinese chess.
 - 🌱 SOF: https://stackoverflow.com/users/8531215/taquangtu
 
